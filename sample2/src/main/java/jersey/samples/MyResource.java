@@ -10,7 +10,7 @@ public class MyResource
 	@GET
 	@Produces("text/plain")
 	public String getHello(){
-		return "Hello World!";
+		return "Imagine this as a root of all rest APIs";
 	}
 }
 
